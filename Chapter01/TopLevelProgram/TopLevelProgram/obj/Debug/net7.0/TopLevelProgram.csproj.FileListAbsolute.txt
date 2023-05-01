@@ -1,0 +1,15 @@
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/bin/Debug/net7.0/TopLevelProgram
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/bin/Debug/net7.0/TopLevelProgram.deps.json
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/bin/Debug/net7.0/TopLevelProgram.runtimeconfig.json
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/bin/Debug/net7.0/TopLevelProgram.dll
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/bin/Debug/net7.0/TopLevelProgram.pdb
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.csproj.AssemblyReference.cache
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.AssemblyInfoInputs.cache
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.AssemblyInfo.cs
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.csproj.CoreCompileInputs.cache
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.dll
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/refint/TopLevelProgram.dll
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.pdb
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/TopLevelProgram.genruntimeconfig.cache
+/Users/kimberlytownsend/Projects/C-10-and-.Net6/Code/Chapter01/TopLevelProgram/TopLevelProgram/obj/Debug/net7.0/ref/TopLevelProgram.dll
